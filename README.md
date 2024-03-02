@@ -34,3 +34,5 @@ OPENAI_API_KEY=<OpenAI API key>
 
 Alternatively, you can put the above into a file named `.env`, and save this
 file in the same directory as the Python script.
+
+**Embedings functionality added in most recent commit from Local.**
